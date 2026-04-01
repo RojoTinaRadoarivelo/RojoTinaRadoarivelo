@@ -82,6 +82,7 @@ J’interviens sur toute la chaîne technique : **UI avancée, architecture back
 ## ⚡ DevOps & Qualité
 
 - Conteneurisation avec Docker
+- Déploiement & hosting : Render, Netlify, Vercel
 - Pipelines CI/CD (GitHub Actions, GitLab CI)
 - Automatisation des builds et déploiements
 - Qualité de code : ESLint, Husky, lint-staged
